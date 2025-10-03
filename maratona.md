@@ -15,3 +15,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 PAULINO 2
 PAILINO 3
+- [ ] Harry Potter
+- [ ] Homem-Aranha
